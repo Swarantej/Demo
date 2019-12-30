@@ -1,9 +1,11 @@
 Names:
-Swaran
-tej
-Vuppu
+
 
 Adding age
 12
 114
 15
+
+Swaran tej Vuppu
+
+
