@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136" started-at="2019-12-25T16:23:58 IST" finished-at="2019-12-25T16:23:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136" started-at="2019-12-25T16:23:58 IST" finished-at="2019-12-25T16:23:58 IST">
+      <class name="MavenPractise.AppiumTest">
+        <test-method status="PASS" signature="appiumTest()[pri:0, instance:MavenPractise.AppiumTest@e50a6f6]" name="appiumTest" duration-ms="8" started-at="2019-12-25T16:23:58 IST" finished-at="2019-12-25T16:23:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTest -->
+      </class> <!-- MavenPractise.AppiumTest -->
+      <class name="MavenPractise.SeleniumTest">
+        <test-method status="PASS" signature="seleniumTest()[pri:0, instance:MavenPractise.SeleniumTest@53ca01a2]" name="seleniumTest" duration-ms="0" started-at="2019-12-25T16:23:58 IST" finished-at="2019-12-25T16:23:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+      </class> <!-- MavenPractise.SeleniumTest -->
+      <class name="MavenPractise.RestAPITest">
+        <test-method status="PASS" signature="restAPITest()[pri:0, instance:MavenPractise.RestAPITest@14ec4505]" name="restAPITest" duration-ms="0" started-at="2019-12-25T16:23:58 IST" finished-at="2019-12-25T16:23:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITest -->
+      </class> <!-- MavenPractise.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
