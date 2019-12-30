@@ -18,6 +18,13 @@ public class AppiumTest {
 
 
 @Test
+	
+	public void appiumTest12() {
+		System.out.println("Dummy project addes branch");
+	}
+
+
+@Test
 
 public void appiumTest2() {
 	System.out.println("Maven Plugin test from Appium test file 12&");
