@@ -10,6 +10,7 @@ public class RestAPITest {
 	
 	public void restAPITest() {
 		System.out.println("Maven Plugin test from RestAPI test file");
+		System.out.println("Testing");
 	}
 
 }
